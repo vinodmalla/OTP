@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.opt {
+  text-align: center;
+  height: 40px;
+  width: 30px;
+  margin: 4px;
+  font-size: larger;
+}
